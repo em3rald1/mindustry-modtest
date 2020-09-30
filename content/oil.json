@@ -1,0 +1,7 @@
+{
+  "name": "Oil",
+  "type": "resource",
+  "description": "Oil",
+  "cost": 0,
+  "color": "a200ff"
+}
